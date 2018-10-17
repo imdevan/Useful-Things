@@ -18,3 +18,14 @@ https://react.semantic-ui.com/
 ### Static web frameworks 
 React Static
 https://github.com/nozzle/react-static
+
+
+# UI components
+
+## Carousel
+
+Slick
+https://react-slick.neostack.com/
+
+Slidez
+https://pau1fitz.github.io/react-slidez/
