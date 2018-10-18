@@ -1,5 +1,4 @@
 # React libraries
----
 
 ## Used
 React Bootstrap
