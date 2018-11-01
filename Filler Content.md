@@ -2,4 +2,4 @@
 
 ### [Adorable Avatars](http://avatars.adorable.io/)
 ### [Place Kitten](https://placekitten.com/)
-### [Place Hold.it]http://placehold.it)
+### [Place Hold.it](http://placehold.it)
